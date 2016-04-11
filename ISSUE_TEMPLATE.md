@@ -1,5 +1,3 @@
-
-###### <Your feedback title here>
 <Your feedback content here>
 
 - Deckhub Version: 
